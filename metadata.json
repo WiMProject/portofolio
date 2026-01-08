@@ -1,0 +1,7 @@
+{
+  "name": "Creative 3D AI Portfolio",
+  "description": "A high-end, immersive developer portfolio featuring 3D visuals using React Three Fiber, Framer Motion animations, and an integrated Gemini AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
